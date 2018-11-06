@@ -10,4 +10,4 @@ Pequeno exemplo de aplicação utilizando Vue.js, que ao se digitar no campo sen
 
 ![alt text][logo]
 
-[logo]: https://github.com/leandrobeandrade/chat-app/blob/master/print_chat-app.png
+[logo]: https://imgur.com/a/BMZEyye
